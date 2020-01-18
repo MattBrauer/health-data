@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578868659189.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7A9D324B",
+    "lastKnownWriteTime" : 1578330091,
+    "last_content_update" : 1578330091,
+    "path" : "~/Projects/run-data/lightcurves.R",
+    "project_path" : "lightcurves.R",
+    "properties" : {
+        "cursorPosition" : "70,66",
+        "scrollLine" : "60"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

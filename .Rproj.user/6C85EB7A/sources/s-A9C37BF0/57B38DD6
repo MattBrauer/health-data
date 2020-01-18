@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578241190580.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "57B38DD6",
+    "lastKnownWriteTime" : 1578242576,
+    "last_content_update" : 1578242576044,
+    "path" : "~/Projects/run-data/runs.R",
+    "project_path" : "runs.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
